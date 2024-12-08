@@ -59,6 +59,12 @@ label {
     width: 200px;
     margin: 200px 0px 0px 0px;
 }
+.divForma{
+    height: 400px;
+    width: 700px;
+    margin: 10px 0px 0px -10px;
+    border: 1px solid grey;
+}
 .divWithButtons{
     width: 100px;
     height: 200px;
@@ -74,7 +80,7 @@ label {
     margin-bottom: 25px;
 }
 
-.addElement:active{
+.addElement:hover{
 background-color: lightgreen;
 }
 
