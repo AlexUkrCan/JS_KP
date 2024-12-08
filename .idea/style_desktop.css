@@ -1,0 +1,81 @@
+*{
+    margin: 0;
+}
+body{
+    width: 100vw;
+    background-color: cornflowerblue;
+}
+.main{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    margin-left: 13vw;
+    width: 1100px;
+    height: 850px;
+    display: flex;
+    background-color: white;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+.testHeadline{
+    margin: 80px 0px 0px 60px;
+    font-size: 50px;
+}
+.inputKeyAndValue{
+    width: 500px;
+    height: 50px;
+    margin: 200px 0px 0px -80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+label {
+    display: block;
+}
+#input1{
+    width: 600px;
+}
+.buttonSubmit{
+    margin: 20px 0px 0px 40px;
+}
+.paragraph{
+    margin: 300px 0px 0px -500px;
+}
+.outputKeyAndValue{
+    width: 500px;
+    height: 400px;
+    margin: 330px 0px 0px -185px;
+    display: flex;
+    align-items: start;
+
+}
+.paragraph{
+    width: 200px;
+    height: 30px;
+    margin: 300px 0px 0px -500px;
+}
+
+.outputForm{
+    height: 200px;
+    width: 200px;
+    margin: 200px 0px 0px 0px;
+}
+.divWithButtons{
+    width: 100px;
+    height: 200px;
+    display: table-column;
+    justify-content: center;
+    align-items: start;
+    margin: 320px 0px 0px 135px;
+}
+.btn1{
+    margin-bottom: 25px;
+}
+.btn2{
+    margin-bottom: 25px;
+}
+
+.addElement:active{
+background-color: lightgreen;
+}
+
+

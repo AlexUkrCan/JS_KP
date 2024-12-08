@@ -1,0 +1,22 @@
+@media screen and (max-width: 480px) {
+.main{
+    width: 342px;
+    margin-left: 25px;
+}
+#input1 {
+    width: 115px;
+}
+.inputKeyAndValue{
+    justify-content: flex-start;
+}
+
+.outputKeyAndValue{
+    width: 50%;
+
+}
+
+.divWithButtons{
+    margin: 320px 20px 0px -5px;
+}
+
+}
